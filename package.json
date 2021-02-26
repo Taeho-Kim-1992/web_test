@@ -1,0 +1,22 @@
+{
+  "name": "web_test",
+  "version": "1.0.0",
+  "description": "first commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taeho-Kim-1992/web_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taeho-Kim-1992/web_test/issues"
+  },
+  "homepage": "https://github.com/Taeho-Kim-1992/web_test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
